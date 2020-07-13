@@ -48,7 +48,7 @@ A：官网目前不支持除校招外的投递进度查询，如果是通过我�
 
 * 简历可参考：[如何写出一份专业的技术简历](https://github.com/Blankj/resume)（PS：简历中自己拿得出手的部分可以加粗来吸引面试官眼球）；
 * Android 同学可参考：[AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller)（其他技术同学也可参考）；
-* 技术人员一定要**「好好刷算法、好好刷算法、好好刷算法」**，难度到 LeetCode 中等即可，可参考我之前总结的 [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)；
+* 技术人员一定要 **「好好刷算法、好好刷算法、好好刷算法」**，难度到 LeetCode 中等即可，可参考我之前总结的 [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)；
 ### Q：如果面试挂了，会对后面投递有影响吗？
 
 A：字节的历史投递及面试情况系统都有记录，如果投递新岗位HR、面试官可以查看并进行参考。但相比历史表现，当下的面试表现更加重要。我内推的成功案例中，不乏多次投递并面试，最后成功拿下offer的同学。
