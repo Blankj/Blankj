@@ -4,12 +4,14 @@
   </a>
 </p>
 
+<p>
 
-[🌱 基你太美](https://xiaozhuanlan.com/Blankj)
+* [🌱 我的专栏-基你太美](https://xiaozhuanlan.com/Blankj)
+* [🔥 字节跳动靠谱内推](https://blankj.com/2020/05/19/welcome-bytedance)
 
-[🔥 字节跳动靠谱内推](https://blankj.com/2020/05/19/welcome-bytedance)
+</p>
 
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Blankj&color=blue" />
 </p>
