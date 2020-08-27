@@ -1,13 +1,12 @@
-<p align="center">
-  <a href="https://github.com/Blankj">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Blankj&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
-  </a>
-</p>
+<a href="https://github.com/Blankj">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Blankj&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
+</a>
 
 
-🔥 [字节跳动靠谱内推](https://blankj.com/2020/05/19/welcome-bytedance)
+🌱 <a href="https://xiaozhuanlan.com/Blankj">基你太美</a>
+🔥 <a href="https://blankj.com/2020/05/19/welcome-bytedance">字节跳动靠谱内推</a>
 
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Blankj&color=blue" />
 </p>
