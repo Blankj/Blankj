@@ -4,11 +4,10 @@
   </a>
 </p>
 
+
 <p align="center">
-
-[🌱 我的专栏-基你太美](https://xiaozhuanlan.com/Blankj)
-[🔥 字节跳动靠谱内推](https://blankj.com/2020/05/19/welcome-bytedance)
-
+  <a href="https://xiaozhuanlan.com/Blankj">🌱 我的专栏-基你太美</a>
+  <a href="https://blankj.com/2020/05/19/welcome-bytedance">🔥 字节跳动靠谱内推</a>
 </p>
 
 
