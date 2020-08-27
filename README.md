@@ -2,11 +2,13 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Blankj&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
 </a>
 
+<br />
 
 * [🌱 基你太美](https://xiaozhuanlan.com/Blankj)
 * [🔥 字节跳动靠谱内推](https://blankj.com/2020/05/19/welcome-bytedance)
 
 
+<br />
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Blankj&color=blue" />
 </p>
