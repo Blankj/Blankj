@@ -1,16 +1,17 @@
-<p align="center">
+<p>
   <a href="https://github.com/Blankj">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Blankj&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Blankj&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
 </p>
 
-
 <p align="center">
-  <a href="https://xiaozhuanlan.com/Blankj">🌱 我的专栏-基你太美<br /></a>
-  <a href="https://blankj.com/2020/05/19/welcome-bytedance">🔥 字节跳动靠谱内推</a>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Blankj&color=blue" />
+  <a href="https://xiaozhuanlan.com/Blankj">
+    <img src="https://img.shields.io/badge/🌱-专栏--基你太美-brightness.svg"
+  </a>  
+  <a href="https://blankj.com/2020/05/19/welcome-bytedance">
+    <img src="https://img.shields.io/badge/🔥-字节跳动靠谱内推-orange.svg"
+  </a>
+  <a href="https://github.com/Blankj">
+    <img src="https://komarev.com/ghpvc/?username=Blankj&color=brightgreen" />
+  </a>  
 </p>
