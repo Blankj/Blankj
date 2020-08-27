@@ -6,8 +6,7 @@
 
 
 <p align="center">
-  <a href="https://xiaozhuanlan.com/Blankj">🌱 我的专栏-基你太美</a>
-  
+  <a href="https://xiaozhuanlan.com/Blankj">🌱 我的专栏-基你太美<br /></a>
   <a href="https://blankj.com/2020/05/19/welcome-bytedance">🔥 字节跳动靠谱内推</a>
 </p>
 
