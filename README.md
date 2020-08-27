@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/🔥%20内推-字节跳动-orange.svg" />
   </a>
   <a href="https://github.com/Blankj">
-    <img src="https://komarev.com/ghpvc/?username=Blankj&color=brightgreen" />
+    <img src="https://komarev.com/ghpvc/?username=Blankj&color=brightgreen&label=👁%20Porfile%20views" />
   </a>  
 </p>
